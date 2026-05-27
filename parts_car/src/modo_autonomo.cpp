@@ -25,7 +25,7 @@ const int HISTERESIS = 5;
 const int RETARDO_GIRO      = 350;   // ms
 const int RETARDO_DETECCION = 100;   // ms
 const int BACKUP_TIME       = 400;   // ms cuando retrocede
-const int ESCANEO_DELAY     = 2000;   // ms espera tras mover servo
+const int ESCANEO_DELAY     = 220;   // ms espera tras mover servo
 const int TIMEOUT_ALERTA    = 8000;  // ms máximo en ALERT/CRITICAL
 const int TIMEOUT_GIRO      = 5000;  // ms máximo en TURNING
 
